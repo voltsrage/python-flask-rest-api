@@ -1,0 +1,6 @@
+Activate your virtual environment and run this command:
+And run
+
+flask db init
+flask db migrate
+flask db upgrade
